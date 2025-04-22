@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "Simplify TikTok video downloads with our user-friendly downloader. Keep your videos"
+   },
+   "download": {
+      "message": "Завантажити"
+   },
+   "name": {
+      "message": "Chrome Downloader for TikTok"
+   },
+   "popup_options": {
+      "message": "варіанти"
+   },
+   "popup_reload": {
+      "message": "Оновіть сторінку та повторіть спробу."
+   },
+   "popup_to_tiktok": {
+      "message": "Перейдіть до TikTok"
+   },
+   "popup_videos": {
+      "message": "Відео"
+   },
+   "popup_with_watermark": {
+      "message": "З водяним знаком"
+   },
+   "popup_without_watermark": {
+      "message": "Без водяного знака"
+   }
+}

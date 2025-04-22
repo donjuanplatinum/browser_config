@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "Choose our TikTok Video Downloader for Chrome and download any video from TkTok."
+   },
+   "download": {
+      "message": "Downloaden"
+   },
+   "name": {
+      "message": "Chrome Video Downloader for TikTok"
+   },
+   "popup_options": {
+      "message": "opties"
+   },
+   "popup_reload": {
+      "message": "Ververs de pagina en probeer het opnieuw."
+   },
+   "popup_to_tiktok": {
+      "message": "Ga naar TikTok"
+   },
+   "popup_videos": {
+      "message": "Videos"
+   },
+   "popup_with_watermark": {
+      "message": "Met watermerk"
+   },
+   "popup_without_watermark": {
+      "message": "Zonder watermerk"
+   }
+}

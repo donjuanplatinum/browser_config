@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "Unlock the potential of TikTok videos with our downloader. Save TikToks to your PC"
+   },
+   "download": {
+      "message": "Muat turun"
+   },
+   "name": {
+      "message": "Downloader Extension for TikTok"
+   },
+   "popup_options": {
+      "message": "pilihan"
+   },
+   "popup_reload": {
+      "message": "Muat semula halaman dan cuba lagi."
+   },
+   "popup_to_tiktok": {
+      "message": "Pergi ke TikTok"
+   },
+   "popup_videos": {
+      "message": "Video"
+   },
+   "popup_with_watermark": {
+      "message": "Dengan tanda air"
+   },
+   "popup_without_watermark": {
+      "message": "Tanpa tanda air"
+   }
+}

@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "TikTok Downloader for Chrome. Easy and light-weight solution for saving any video from tiktok.com"
+   },
+   "download": {
+      "message": "Descarca"
+   },
+   "name": {
+      "message": "TikTok Video Download with best Downloader"
+   },
+   "popup_options": {
+      "message": "Opțiuni"
+   },
+   "popup_reload": {
+      "message": "Actualizați pagina și încercați din nou."
+   },
+   "popup_to_tiktok": {
+      "message": "Accesați TikTok"
+   },
+   "popup_videos": {
+      "message": "Videoclipuri"
+   },
+   "popup_with_watermark": {
+      "message": "Cu filigran"
+   },
+   "popup_without_watermark": {
+      "message": "Fără filigran"
+   }
+}

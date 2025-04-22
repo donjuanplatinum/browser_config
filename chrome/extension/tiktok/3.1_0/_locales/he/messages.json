@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "Choose our TikTok downloader for hassle-free video saving. Download from tiktok.com"
+   },
+   "download": {
+      "message": "הורד"
+   },
+   "name": {
+      "message": "Mass and single downloading from TikTok"
+   },
+   "popup_options": {
+      "message": "אפשרויות"
+   },
+   "popup_reload": {
+      "message": "רענן את הדף ונסה שוב."
+   },
+   "popup_to_tiktok": {
+      "message": "עבור אל TikTok"
+   },
+   "popup_videos": {
+      "message": "סרטונים"
+   },
+   "popup_with_watermark": {
+      "message": "עם סימן מים"
+   },
+   "popup_without_watermark": {
+      "message": "ללא סימן מים"
+   }
+}

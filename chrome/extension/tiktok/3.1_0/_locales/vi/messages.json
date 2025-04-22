@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "Unlock the potential of TikTok videos with our downloader. Click and save."
+   },
+   "download": {
+      "message": "Tải xuống"
+   },
+   "name": {
+      "message": "Chrome Video Downloader for TikTok"
+   },
+   "popup_options": {
+      "message": "tùy chọn"
+   },
+   "popup_reload": {
+      "message": "Hãy làm mới trang và thử lại."
+   },
+   "popup_to_tiktok": {
+      "message": "Đi tới TikTok"
+   },
+   "popup_videos": {
+      "message": "Video"
+   },
+   "popup_with_watermark": {
+      "message": "Có hình mờ"
+   },
+   "popup_without_watermark": {
+      "message": "Không có hình mờ"
+   }
+}

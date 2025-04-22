@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "Seamlessly download TikTok videos with our efficient downloader. Download anything from tiktok.com"
+   },
+   "download": {
+      "message": "Lae alla"
+   },
+   "name": {
+      "message": "TikTok Keeper. Download videos from TikTok"
+   },
+   "popup_options": {
+      "message": "võimalusi"
+   },
+   "popup_reload": {
+      "message": "Värskendage lehte ja proovige uuesti."
+   },
+   "popup_to_tiktok": {
+      "message": "Avage TikTok"
+   },
+   "popup_videos": {
+      "message": "Videod"
+   },
+   "popup_with_watermark": {
+      "message": "Koos vesimärgiga"
+   },
+   "popup_without_watermark": {
+      "message": "Ilma vesimärgita"
+   }
+}

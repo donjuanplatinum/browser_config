@@ -1,0 +1,11 @@
+{
+ "name": {"message": "TikTok Video Keeper to download"},
+ "description": {"message": "Видеоны tiktok.com сайтынан жүктеп алыңыз"},
+ "download": {"message": "Жүктеу"},
+ "popup_reload": {"message": "Бетті жаңартып, қайталап көріңіз."},
+ "popup_options": {"message": "опциялар"},
+ "popup_with_watermark": {"message": "Су таңбасы бар"},
+ "popup_without_watermark": {"message": "Су таңбасы жоқ"},
+ "popup_to_tiktok": {"message": "ТикТокқа өтіңіз"},
+ "popup_videos": {"message": "Бейнелер"}
+}

@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "Save TikTok video with one single click. Fast and easy tool to download videos from tiktok.com"
+   },
+   "download": {
+      "message": "descarregar"
+   },
+   "name": {
+      "message": "Video Downloader for tiktok.com"
+   },
+   "popup_options": {
+      "message": "opcions"
+   },
+   "popup_reload": {
+      "message": "Actualitzeu la pàgina i torneu-ho a provar."
+   },
+   "popup_to_tiktok": {
+      "message": "Aneu a TikTok"
+   },
+   "popup_videos": {
+      "message": "Vídeos"
+   },
+   "popup_with_watermark": {
+      "message": "Amb filigrana"
+   },
+   "popup_without_watermark": {
+      "message": "Sense filigrana"
+   }
+}

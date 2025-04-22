@@ -1,0 +1,11 @@
+{
+ "name": {"message": "Download and save any TikTok video"},
+ "description": {"message": "Enhance your TikTok video collection with new TikTok Downloader. Single or bulk downloads seamlessly!"},
+ "download": {"message": "ჩამოტვირთვა"},
+ "popup_reload": {"message": "გთხოვთ განაახლოთ გვერდი და სცადოთ ხელახლა."},
+ "popup_options": {"message": "პარამეტრები"},
+ "popup_with_watermark": {"message": "წყლის ნიშნით"},
+ "popup_without_watermark": {"message": "წყლის ნიშნულის გარეშე"},
+ "popup_to_tiktok": {"message": "გადადით TikTok– ზე"},
+ "popup_videos": {"message": "ვიდეოები"}
+}

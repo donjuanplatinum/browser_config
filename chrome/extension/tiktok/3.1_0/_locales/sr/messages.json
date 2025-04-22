@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "TikTok video downloads made easy. TikTok Video Downloader for single or mass download!"
+   },
+   "download": {
+      "message": "Dovnload"
+   },
+   "name": {
+      "message": "Tiktok video downloader"
+   },
+   "popup_options": {
+      "message": "opcije"
+   },
+   "popup_reload": {
+      "message": "Molimo osvežite stranicu i pokušajte ponovo."
+   },
+   "popup_to_tiktok": {
+      "message": "Idite na TikTok"
+   },
+   "popup_videos": {
+      "message": "Video"
+   },
+   "popup_with_watermark": {
+      "message": "Sa vodenim žigom"
+   },
+   "popup_without_watermark": {
+      "message": "Bez vodenog žiga"
+   }
+}

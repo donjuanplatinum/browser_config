@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "TikTok Video İndirici, TikTok'tan videoları bilgisayarınıza kaydetmek için. TikTok'tan indirme yapın, tekli ve toplu indirme. En iyi TikTok video saklayıcı."
+   },
+   "download": {
+      "message": "İndirmek"
+   },
+   "name": {
+      "message": "Tiktok indirici"
+   },
+   "popup_options": {
+      "message": "seçenekler"
+   },
+   "popup_reload": {
+      "message": "Lütfen sayfayı yenileyin ve tekrar deneyin."
+   },
+   "popup_to_tiktok": {
+      "message": "TikTok'a git"
+   },
+   "popup_videos": {
+      "message": "Videolar"
+   },
+   "popup_with_watermark": {
+      "message": "filigranlı"
+   },
+   "popup_without_watermark": {
+      "message": "filigran olmadan"
+   }
+}

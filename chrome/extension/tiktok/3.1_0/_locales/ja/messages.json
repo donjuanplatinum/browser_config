@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "tiktok.comからビデオをダウンロード"
+   },
+   "download": {
+      "message": "ダウンロード"
+   },
+   "name": {
+      "message": "Tiktokダウンローダー"
+   },
+   "popup_options": {
+      "message": "オプション"
+   },
+   "popup_reload": {
+      "message": "ページを更新して、もう一度お試しください。"
+   },
+   "popup_to_tiktok": {
+      "message": "TikTokに移動します"
+   },
+   "popup_videos": {
+      "message": "ビデオ"
+   },
+   "popup_with_watermark": {
+      "message": "透かし付き"
+   },
+   "popup_without_watermark": {
+      "message": "透かしなし"
+   }
+}

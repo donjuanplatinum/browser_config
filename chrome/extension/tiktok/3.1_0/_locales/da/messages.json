@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "Experience hassle-free TikTok video downloads. Choose our downloader for single or mass download options"
+   },
+   "download": {
+      "message": "Hent"
+   },
+   "name": {
+      "message": "TikTok Downloader. Save videos"
+   },
+   "popup_options": {
+      "message": "muligheder"
+   },
+   "popup_reload": {
+      "message": "Opdater siden, og prøv igen."
+   },
+   "popup_to_tiktok": {
+      "message": "Gå til TikTok"
+   },
+   "popup_videos": {
+      "message": "Videoer"
+   },
+   "popup_with_watermark": {
+      "message": "Med vandmærke"
+   },
+   "popup_without_watermark": {
+      "message": "Uden vandmærke"
+   }
+}

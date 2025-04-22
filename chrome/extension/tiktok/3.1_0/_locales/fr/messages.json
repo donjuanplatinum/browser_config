@@ -1,0 +1,101 @@
+{
+   "available_now": {
+      "message": "Disponible dès maintenant"
+   },
+   "cancel": {
+      "message": "Annuler"
+   },
+   "continue": {
+      "message": "Continuer"
+   },
+   "description": {
+      "message": "Téléchargez n'importe quelle vidéo sur TikTok. Options de téléchargement unique ou en masse disponibles."
+   },
+   "disable_one_by_one_warning": {
+      "message": "Ne plus montrer cela"
+   },
+   "download": {
+      "message": "Télécharger"
+   },
+   "download_all": {
+      "message": "Télécharger tout"
+   },
+   "download_by_zip": {
+      "message": "Créer un ZIP"
+   },
+   "download_from": {
+      "message": "Télécharger à partir de"
+   },
+   "download_last": {
+      "message": "Derniers téléchargements"
+   },
+   "download_one_by_one": {
+      "message": "Télécharger"
+   },
+   "downloaded": {
+      "message": "Téléchargé"
+   },
+   "downloading": {
+      "message": "Téléchargement..."
+   },
+   "enough": {
+      "message": "Arrêter"
+   },
+   "error": {
+      "message": "Erreur"
+   },
+   "found": {
+      "message": "Trouvé"
+   },
+   "go_to_downloads_settings": {
+      "message": "Aller dans les paramètres de téléchargement"
+   },
+   "later_you_can_get_more": {
+      "message": "Par la suite, vous pourrez télécharger d'autres"
+   },
+   "name": {
+      "message": "Téléchargeur Tiktok"
+   },
+   "no_dates_video": {
+      "message": "Aucune vidéo n'a été trouvée pour ces dates"
+   },
+   "one_by_one_warning_text": {
+      "message": "Lorsque vous utilisez le téléchargement un par un, il est conseillé de choisir ou de créer un dossier de sauvegarde à l'avance et de désactiver l'option 'Demander à chaque fois où télécharger'.'"
+   },
+   "popup_options": {
+      "message": "options"
+   },
+   "popup_reload": {
+      "message": "Veuillez actualiser la page et réessayer."
+   },
+   "popup_to_tiktok": {
+      "message": "Aller sur TikTok"
+   },
+   "popup_videos": {
+      "message": "Vidéos"
+   },
+   "popup_with_watermark": {
+      "message": "Avec filigrane"
+   },
+   "popup_without_watermark": {
+      "message": "Sans filigrane"
+   },
+   "stop_button_description": {
+      "message": "Vous pouvez arrêter le téléchargement à tout moment si vous avez assez de vidéos."
+   },
+   "to": {
+      "message": "à"
+   },
+   "tryAgainLater": {
+      "message": "Veuillez réessayer plus tard"
+   },
+   "video_selected": {
+      "message": "vidéos sélectionnées"
+   },
+   "videos": {
+      "message": "vidéos"
+   },
+   "wait_download_in_another_tab": {
+      "message": "Veuillez attendre que le téléchargement dans un autre onglet soit terminé"
+   }
+}

@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "TikTok video Keeper. This is extension for saving content from TikTok to use it later. Download any TikTok video."
+   },
+   "download": {
+      "message": "Изтегли"
+   },
+   "name": {
+      "message": "Video Downloader for TikTok"
+   },
+   "popup_options": {
+      "message": "настроики"
+   },
+   "popup_reload": {
+      "message": "Моля, опреснете страницата и опитайте отново."
+   },
+   "popup_to_tiktok": {
+      "message": "Отидете на TikTok"
+   },
+   "popup_videos": {
+      "message": "Видеоклипове"
+   },
+   "popup_with_watermark": {
+      "message": "С воден знак"
+   },
+   "popup_without_watermark": {
+      "message": "Без воден знак"
+   }
+}

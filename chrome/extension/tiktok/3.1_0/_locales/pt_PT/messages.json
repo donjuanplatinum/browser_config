@@ -1,0 +1,101 @@
+{
+   "available_now": {
+      "message": "Já disponível"
+   },
+   "cancel": {
+      "message": "Cancelar"
+   },
+   "continue": {
+      "message": "Continuar"
+   },
+   "description": {
+      "message": "TikTok Baixador de Vídeos para salvar vídeos do TikTok no seu PC. Baixe do TikTok, downloads individuais e em massa. O melhor guardião de vídeos do TikTok."
+   },
+   "disable_one_by_one_warning": {
+      "message": "Não mostre mais isso"
+   },
+   "download": {
+      "message": "Download"
+   },
+   "download_all": {
+      "message": "Baixar tudo"
+   },
+   "download_by_zip": {
+      "message": "Criar ZIP"
+   },
+   "download_from": {
+      "message": "Faça o download a partir de"
+   },
+   "download_last": {
+      "message": "Baixar por último"
+   },
+   "download_one_by_one": {
+      "message": "Baixar"
+   },
+   "downloaded": {
+      "message": "Baixado"
+   },
+   "downloading": {
+      "message": "Transferindo..."
+   },
+   "enough": {
+      "message": "Parar"
+   },
+   "error": {
+      "message": "Erro"
+   },
+   "found": {
+      "message": "Fundar"
+   },
+   "go_to_downloads_settings": {
+      "message": "Vá para as configurações de download"
+   },
+   "later_you_can_get_more": {
+      "message": "Mais tarde, você pode baixar mais"
+   },
+   "name": {
+      "message": "TikTok Baixador de Vídeos"
+   },
+   "no_dates_video": {
+      "message": "Nenhum vídeo encontrado para estas datas"
+   },
+   "one_by_one_warning_text": {
+      "message": "Ao usar o download um-por-um, é uma boa ideia escolher ou criar a pasta de salvamento com antecedência e desativar a opção 'Perguntar sempre onde baixar'"
+   },
+   "popup_options": {
+      "message": "opções"
+   },
+   "popup_reload": {
+      "message": "Atualize a página e tente novamente."
+   },
+   "popup_to_tiktok": {
+      "message": "Vá para o TikTok"
+   },
+   "popup_videos": {
+      "message": "Vídeos"
+   },
+   "popup_with_watermark": {
+      "message": "Com marca d'água"
+   },
+   "popup_without_watermark": {
+      "message": "Sem marca d'água"
+   },
+   "stop_button_description": {
+      "message": "Você pode parar de baixar a qualquer momento se você tiver vídeos suficientes"
+   },
+   "to": {
+      "message": "Para"
+   },
+   "tryAgainLater": {
+      "message": "Tente novamente mais tarde"
+   },
+   "video_selected": {
+      "message": "Vídeos selecionados"
+   },
+   "videos": {
+      "message": "Vídeos"
+   },
+   "wait_download_in_another_tab": {
+      "message": "Aguarde o download em outra aba ser concluído"
+   }
+}

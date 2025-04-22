@@ -1,0 +1,101 @@
+{
+   "available_now": {
+      "message": "지금 이용 가능"
+   },
+   "cancel": {
+      "message": "취소"
+   },
+   "continue": {
+      "message": "계속하다"
+   },
+   "description": {
+      "message": "TikTok 비디오 다운로더로 TikTok에서 비디오를 PC에 저장하세요. TikTok에서 다운로드, 개별 및 대량 다운로드. 최고의 TikTok 비디오 보관함."
+   },
+   "disable_one_by_one_warning": {
+      "message": "더 이상 표시하지 마세요"
+   },
+   "download": {
+      "message": "다운로드"
+   },
+   "download_all": {
+      "message": "모두 다운로드"
+   },
+   "download_by_zip": {
+      "message": "ZIP 만들기"
+   },
+   "download_from": {
+      "message": "다운로드 위치"
+   },
+   "download_last": {
+      "message": "마지막 다운로드"
+   },
+   "download_one_by_one": {
+      "message": "다운로드"
+   },
+   "downloaded": {
+      "message": "다운로드"
+   },
+   "downloading": {
+      "message": "다운로드..."
+   },
+   "enough": {
+      "message": "멈추다"
+   },
+   "error": {
+      "message": "오류"
+   },
+   "found": {
+      "message": "설립하다"
+   },
+   "go_to_downloads_settings": {
+      "message": "다운로드 설정으로 이동"
+   },
+   "later_you_can_get_more": {
+      "message": "나중에 더 많은 것을 다운로드 할 수 있습니다."
+   },
+   "name": {
+      "message": "틱톡 다운로더"
+   },
+   "no_dates_video": {
+      "message": "이 날짜에 대한 동영상이 없습니다."
+   },
+   "one_by_one_warning_text": {
+      "message": "하나씩 다운로드를 사용하는 경우 미리 저장 폴더를 선택하거나 만들고 '다운로드 할 때마다 묻기'옵션을 끄는 것이 좋습니다"
+   },
+   "popup_options": {
+      "message": "옵션"
+   },
+   "popup_reload": {
+      "message": "페이지를 새로고침하고 다시 시도하십시오."
+   },
+   "popup_to_tiktok": {
+      "message": "틱톡 바로가기"
+   },
+   "popup_videos": {
+      "message": "비디오"
+   },
+   "popup_with_watermark": {
+      "message": "워터마크 포함"
+   },
+   "popup_without_watermark": {
+      "message": "워터마크 없음"
+   },
+   "stop_button_description": {
+      "message": "동영상이 충분하면 언제든지 다운로드를 중지할 수 있습니다"
+   },
+   "to": {
+      "message": "받는 사람"
+   },
+   "tryAgainLater": {
+      "message": "나중에 다시 시도해 주세요."
+   },
+   "video_selected": {
+      "message": "선택한 동영상"
+   },
+   "videos": {
+      "message": "동영상"
+   },
+   "wait_download_in_another_tab": {
+      "message": "다른 탭에서 다운로드가 완료될 때까지 기다려 주십시오."
+   }
+}

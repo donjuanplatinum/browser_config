@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "Choose our TikTok downloader for efficient video saving. Dowload TikTok videos to watch or repost them later."
+   },
+   "download": {
+      "message": "ดาวน์โหลด"
+   },
+   "name": {
+      "message": "TikTok Chrome Video Saver"
+   },
+   "popup_options": {
+      "message": "ตัวเลือก"
+   },
+   "popup_reload": {
+      "message": "โปรดรีเฟรชหน้าแล้วลองอีกครั้ง"
+   },
+   "popup_to_tiktok": {
+      "message": "ไปที่ TikTok"
+   },
+   "popup_videos": {
+      "message": "วีดีโอ"
+   },
+   "popup_with_watermark": {
+      "message": "พร้อมลายน้ำ"
+   },
+   "popup_without_watermark": {
+      "message": "ไม่มีลายน้ำ"
+   }
+}

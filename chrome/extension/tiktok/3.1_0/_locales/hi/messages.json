@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "tiktok.com से वीडियो डाउनलोड करें"
+   },
+   "download": {
+      "message": "डाउनलोड"
+   },
+   "name": {
+      "message": "टिकटोक डाउनलोडर"
+   },
+   "popup_options": {
+      "message": "विकल्प"
+   },
+   "popup_reload": {
+      "message": "पृष्ठ को रीफ्रेश करें और पुन: प्रयास करें।"
+   },
+   "popup_to_tiktok": {
+      "message": "टिक टॉक पर जाएं"
+   },
+   "popup_videos": {
+      "message": "वीडियो"
+   },
+   "popup_with_watermark": {
+      "message": "वॉटरमार्क के साथ"
+   },
+   "popup_without_watermark": {
+      "message": "वॉटरमार्क के बिना"
+   }
+}

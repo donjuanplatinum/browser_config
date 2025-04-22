@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "Unlock swift TikTok video downloads with our efficient downloader. Save videos individually or in bulk"
+   },
+   "download": {
+      "message": "Stažení"
+   },
+   "name": {
+      "message": "TikTok Downloader for video"
+   },
+   "popup_options": {
+      "message": "možnosti"
+   },
+   "popup_reload": {
+      "message": "Obnovte stránku a zkuste to znovu."
+   },
+   "popup_to_tiktok": {
+      "message": "Přejít na TikTok"
+   },
+   "popup_videos": {
+      "message": "Videa"
+   },
+   "popup_with_watermark": {
+      "message": "S vodoznakem"
+   },
+   "popup_without_watermark": {
+      "message": "Bez vodoznaku"
+   }
+}

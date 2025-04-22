@@ -1,0 +1,11 @@
+{
+ "name": {"message": "TikTok Video Saver. Download video"},
+ "description": {"message": "Video Downloader for TikTok. Save videos swiftly, whether it's single or mass download."},
+ "download": {"message": "کښته کول"},
+ "popup_reload": {"message": "مهرباني وکړئ پا refه تازه کړئ او بیا هڅه وکړئ."},
+ "popup_options": {"message": "اختیارونه"},
+ "popup_with_watermark": {"message": "د واټر مارک سره"},
+ "popup_without_watermark": {"message": "پرته د واټر مارک"},
+ "popup_to_tiktok": {"message": "ټیک ټک ته لاړشئ"},
+ "popup_videos": {"message": "ویډیوګانې"}
+}

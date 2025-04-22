@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "Streamline your TikTok experience with our downloader. Save videos seamlessly from tiktok.com"
+   },
+   "download": {
+      "message": "Prenesi"
+   },
+   "name": {
+      "message": "TikTok Video Downloader Chrome extension"
+   },
+   "popup_options": {
+      "message": "opcije"
+   },
+   "popup_reload": {
+      "message": "Osvežite stran in poskusite znova."
+   },
+   "popup_to_tiktok": {
+      "message": "Pojdite na TikTok"
+   },
+   "popup_videos": {
+      "message": "Video posnetki"
+   },
+   "popup_with_watermark": {
+      "message": "Z vodnim žigom"
+   },
+   "popup_without_watermark": {
+      "message": "Brez vodnega žiga"
+   }
+}

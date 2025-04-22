@@ -1,0 +1,101 @@
+{
+   "available_now": {
+      "message": "Ya disponible"
+   },
+   "cancel": {
+      "message": "Cancelar"
+   },
+   "continue": {
+      "message": "Continúe en"
+   },
+   "description": {
+      "message": "Descarga cualquier vídeo de TikTok. Opciones de descarga individual y masiva."
+   },
+   "disable_one_by_one_warning": {
+      "message": "No muestres más esto"
+   },
+   "download": {
+      "message": "Descargar"
+   },
+   "download_all": {
+      "message": "Descargar todo"
+   },
+   "download_by_zip": {
+      "message": "Crear ZIP"
+   },
+   "download_from": {
+      "message": "Descargar desde"
+   },
+   "download_last": {
+      "message": "Última descarga"
+   },
+   "download_one_by_one": {
+      "message": "Descargar"
+   },
+   "downloaded": {
+      "message": "Descargado"
+   },
+   "downloading": {
+      "message": "Descargando..."
+   },
+   "enough": {
+      "message": "Stop"
+   },
+   "error": {
+      "message": "Error"
+   },
+   "found": {
+      "message": "Encontrado"
+   },
+   "go_to_downloads_settings": {
+      "message": "Ir a los ajustes de descarga"
+   },
+   "later_you_can_get_more": {
+      "message": "Más adelante podrás descargar más"
+   },
+   "name": {
+      "message": "Descargador de Tiktok"
+   },
+   "no_dates_video": {
+      "message": "No se han encontrado vídeos para estas fechas"
+   },
+   "one_by_one_warning_text": {
+      "message": "Si utiliza la descarga uno a uno, es aconsejable elegir o crear una carpeta de almacenamiento de antemano y desactivar la opción 'Preguntar cada vez dónde descargar'."
+   },
+   "popup_options": {
+      "message": "opciones"
+   },
+   "popup_reload": {
+      "message": "Actualice la página y vuelva a intentarlo."
+   },
+   "popup_to_tiktok": {
+      "message": "Ir a TikTok"
+   },
+   "popup_videos": {
+      "message": "Videos"
+   },
+   "popup_with_watermark": {
+      "message": "Con marca de agua"
+   },
+   "popup_without_watermark": {
+      "message": "Sin marca de agua"
+   },
+   "stop_button_description": {
+      "message": "Puedes detener la descarga en cualquier momento si tienes suficientes vídeos"
+   },
+   "to": {
+      "message": "a"
+   },
+   "tryAgainLater": {
+      "message": "Vuelva a intentarlo más tarde"
+   },
+   "video_selected": {
+      "message": "vídeos seleccionados"
+   },
+   "videos": {
+      "message": "vídeos"
+   },
+   "wait_download_in_another_tab": {
+      "message": "Espere a que finalice la descarga en otra pestaña"
+   }
+}

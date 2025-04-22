@@ -1,0 +1,27 @@
+{
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_scripts": [ {
+      "js": [ "content-scripts/content.js" ],
+      "matches": [ "*://www.douyin.com/*" ]
+   } ],
+   "description": "通过向视频右上角添加下载按钮，从而下载抖音无水印视频",
+   "icons": {
+      "128": "icon/128.png",
+      "16": "icon/16.png",
+      "32": "icon/32.png",
+      "48": "icon/48.png",
+      "96": "icon/96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoJ/urGjXuj87iVazcPF7yun3Ua8wH+SIWvoo7HjRQcrFD29eBpfQprZ7yBZjA1GDqwRzzvc4HMTUrbQDZxQkGdGJ8nDf0HyIpRB0ipaTy6uOSg0fVZ9SmT0hOPE1/n0yHCu8X2FwLpfYY6hAtvNufP9MQ2h3i3DS1IkiLGpTycylAJ/bXatQHPlZZLuod+xCypgLAimocScHU1hfqKPW4MhqgjzZTPJG8epiDw15oqg6Il72O81dSmtPbrbLScOL8qjFyHoKse33tMCZ92yLhXOAD5HL2lXTN7YgNLDc7UFgHRFGdAkOnf+mzE2zlfaGD04TX55uBF3OnhOUfav4UQIDAQAB",
+   "manifest_version": 3,
+   "name": "抖音视频下载插件",
+   "permissions": [ "downloads" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.0",
+   "web_accessible_resources": [ {
+      "matches": [ "*://www.douyin.com/*" ],
+      "resources": [ "/assets/*.svg" ]
+   } ]
+}

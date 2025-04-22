@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "TikTok video downloads made simple. Use my downloader for quick access, whether single or mass download!"
+   },
+   "download": {
+      "message": "دانلود"
+   },
+   "name": {
+      "message": "TikTok Video Saver. Download from TikTok"
+   },
+   "popup_options": {
+      "message": "گزینه ها"
+   },
+   "popup_reload": {
+      "message": "لطفا صفحه را مجددا بارگزاری کرده و دوباره تلاش کنید."
+   },
+   "popup_to_tiktok": {
+      "message": "به TikTok بروید"
+   },
+   "popup_videos": {
+      "message": "فیلم های"
+   },
+   "popup_with_watermark": {
+      "message": "با واترمارک"
+   },
+   "popup_without_watermark": {
+      "message": "بدون واترمارک"
+   }
+}

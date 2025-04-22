@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "Download video from TikTok. Save any video from tiktok.com to you PC. Best video downloader extension for Chrome"
+   },
+   "download": {
+      "message": "تحميل"
+   },
+   "name": {
+      "message": "TikTok Video Downloader"
+   },
+   "popup_options": {
+      "message": "والخيارات"
+   },
+   "popup_reload": {
+      "message": "يرجى تحديث الصفحة وحاول مرة أخرى."
+   },
+   "popup_to_tiktok": {
+      "message": "اذهب إلى TikTok"
+   },
+   "popup_videos": {
+      "message": "أشرطة فيديو"
+   },
+   "popup_with_watermark": {
+      "message": "مع العلامة المائية"
+   },
+   "popup_without_watermark": {
+      "message": "بدون علامة مائية"
+   }
+}

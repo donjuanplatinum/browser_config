@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "Lataa video tiktok.com -sivustolta"
+   },
+   "download": {
+      "message": "ladata"
+   },
+   "name": {
+      "message": "Video Saver for TikTok. Download video"
+   },
+   "popup_options": {
+      "message": "vaihtoehtoja"
+   },
+   "popup_reload": {
+      "message": "Päivitä sivu ja yritä uudelleen."
+   },
+   "popup_to_tiktok": {
+      "message": "Siirry TikTokiin"
+   },
+   "popup_videos": {
+      "message": "Videot"
+   },
+   "popup_with_watermark": {
+      "message": "Vesileiman kanssa"
+   },
+   "popup_without_watermark": {
+      "message": "Ilman vesileimaa"
+   }
+}

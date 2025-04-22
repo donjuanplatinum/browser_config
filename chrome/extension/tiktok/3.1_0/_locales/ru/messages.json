@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "TikTok Видео Загрузчик для сохранения видео с TikTok на ваш ПК. Скачивайте с TikTok, отдельная и массовая загрузки. Лучший даунлоадер для TikTok."
+   },
+   "download": {
+      "message": "Скачать"
+   },
+   "name": {
+      "message": "Загрузчик Tiktok"
+   },
+   "popup_options": {
+      "message": "параметры"
+   },
+   "popup_reload": {
+      "message": "Обновите страницу и попробуйте еще раз."
+   },
+   "popup_to_tiktok": {
+      "message": "Перейти в TikTok"
+   },
+   "popup_videos": {
+      "message": "Видео"
+   },
+   "popup_with_watermark": {
+      "message": "С водяным знаком"
+   },
+   "popup_without_watermark": {
+      "message": "Без водяного знака"
+   }
+}

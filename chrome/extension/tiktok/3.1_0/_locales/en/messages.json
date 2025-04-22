@@ -1,0 +1,89 @@
+{
+   "available_now": {
+      "message": "Now available"
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "continue": {
+      "message": "Continue"
+   },
+   "description": {
+      "message": "Download any video from TikTok. Single and Bulk downloading options available."
+   },
+   "disable_one_by_one_warning": {
+      "message": "Don't show this anymore"
+   },
+   "download": {
+      "message": "Download"
+   },
+   "download_all": {
+      "message": "Download all"
+   },
+   "download_by_zip": {
+      "message": "Create ZIP"
+   },
+   "download_from": {
+      "message": "Download from"
+   },
+   "download_last": {
+      "message": "Download last"
+   },
+   "download_one_by_one": {
+      "message": "Download"
+   },
+   "downloaded": {
+      "message": "Downloaded"
+   },
+   "downloading": {
+      "message": "Downloading..."
+   },
+   "enough": {
+      "message": "Stop"
+   },
+   "error": {
+      "message": "Error"
+   },
+   "found": {
+      "message": "Found"
+   },
+   "go_to_downloads_settings": {
+      "message": "Go to download settings"
+   },
+   "later_you_can_get_more": {
+      "message": "Later you can download more"
+   },
+   "name": {
+      "message": "TikTok Video Keeper"
+   },
+   "no_dates_video": {
+      "message": "No videos found for these dates"
+   },
+   "one_by_one_warning_text": {
+      "message": "When using one-by-one downloading its a good idea to choose or create save folder in advance, and switch off 'Ask each time where to download' option"
+   },
+   "popup_reload": {
+      "message": "Please refresh the page and try again"
+   },
+   "popup_to_tiktok": {
+      "message": "Go to TikTok"
+   },
+   "stop_button_description": {
+      "message": "You can stop download at any time if you got enough videos"
+   },
+   "to": {
+      "message": "to"
+   },
+   "tryAgainLater": {
+      "message": "Please try again later"
+   },
+   "video_selected": {
+      "message": "videos selected"
+   },
+   "videos": {
+      "message": "videos"
+   },
+   "wait_download_in_another_tab": {
+      "message": "Please wait downloading in another tab is finished"
+   }
+}

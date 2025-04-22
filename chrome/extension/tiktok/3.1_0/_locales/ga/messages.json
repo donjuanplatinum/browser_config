@@ -1,0 +1,11 @@
+{
+ "name": {"message": "Download from TikTok. Mass and single"},
+ "description": {"message": "Get the best of TikTok videos with the TikTok Video Downloader. Select single or mass downloads"},
+ "download": {"message": "Íoslódáil"},
+ "popup_reload": {"message": "Déan an leathanach a athnuachan agus bain triail eile as."},
+ "popup_options": {"message": "roghanna"},
+ "popup_with_watermark": {"message": "Le comhartha uisce"},
+ "popup_without_watermark": {"message": "Gan comhartha uisce"},
+ "popup_to_tiktok": {"message": "Téigh go TikTok"},
+ "popup_videos": {"message": "Físeáin"}
+}

@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "TikTok Pobieracz Video, aby zapisać filmy z TikToka na swoim komputerze. Pobieraj z TikToka, pojedyncze i masowe pobieranie. Najlepszy trzymacz wideo TikTok."
+   },
+   "download": {
+      "message": "Pobierać"
+   },
+   "name": {
+      "message": "Narzędzie do pobierania Tiktok"
+   },
+   "popup_options": {
+      "message": "opcje"
+   },
+   "popup_reload": {
+      "message": "Odśwież stronę i spróbuj ponownie."
+   },
+   "popup_to_tiktok": {
+      "message": "Przejdź do TikTok"
+   },
+   "popup_videos": {
+      "message": "Filmy"
+   },
+   "popup_with_watermark": {
+      "message": "Ze znakiem wodnym"
+   },
+   "popup_without_watermark": {
+      "message": "Bez znaku wodnego"
+   }
+}

@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "TikTok video downloads. Use the Video Downloader, whether single or mass download"
+   },
+   "download": {
+      "message": "parsisiųsti"
+   },
+   "name": {
+      "message": "TikTok Video Keeper to save videos"
+   },
+   "popup_options": {
+      "message": "galimybės"
+   },
+   "popup_reload": {
+      "message": "Atnaujinkite puslapį ir bandykite dar kartą."
+   },
+   "popup_to_tiktok": {
+      "message": "Eikite į „TikTok“"
+   },
+   "popup_videos": {
+      "message": "Vaizdo įrašai"
+   },
+   "popup_with_watermark": {
+      "message": "Su vandens ženklu"
+   },
+   "popup_without_watermark": {
+      "message": "Be vandens ženklo"
+   }
+}

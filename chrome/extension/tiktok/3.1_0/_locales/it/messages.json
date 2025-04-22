@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "Scarica video da tiktok.com"
+   },
+   "download": {
+      "message": "Scarica"
+   },
+   "name": {
+      "message": "Tiktok downloader"
+   },
+   "popup_options": {
+      "message": "opzioni"
+   },
+   "popup_reload": {
+      "message": "Perfavore ricarica la pagina e riprova."
+   },
+   "popup_to_tiktok": {
+      "message": "Vai su TikTok"
+   },
+   "popup_videos": {
+      "message": "Video"
+   },
+   "popup_with_watermark": {
+      "message": "Con filigrana"
+   },
+   "popup_without_watermark": {
+      "message": "Senza filigrana"
+   }
+}

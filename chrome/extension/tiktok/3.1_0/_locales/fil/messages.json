@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "TikTok Downloader. Efficiently download TikTok videos using my advanced downloader."
+   },
+   "download": {
+      "message": "I-download"
+   },
+   "name": {
+      "message": "Save from TikTok. Best Video Downloader"
+   },
+   "popup_options": {
+      "message": "mga opsiyon"
+   },
+   "popup_reload": {
+      "message": "Mangyaring i-refresh ang pahina at subukang muli."
+   },
+   "popup_to_tiktok": {
+      "message": "Pumunta sa TikTok"
+   },
+   "popup_videos": {
+      "message": "Mga Video"
+   },
+   "popup_with_watermark": {
+      "message": "Gamit ang watermark"
+   },
+   "popup_without_watermark": {
+      "message": "Walang watermark"
+   }
+}

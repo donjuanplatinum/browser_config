@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "Easily save TikTok videos with our downloader. Watch offline, repost or share saved video whenever you want"
+   },
+   "download": {
+      "message": "Κατεβάστε"
+   },
+   "name": {
+      "message": "Video Downloader for TikTok"
+   },
+   "popup_options": {
+      "message": "επιλογές"
+   },
+   "popup_reload": {
+      "message": "Ανανεώστε τη σελίδα και δοκιμάστε ξανά."
+   },
+   "popup_to_tiktok": {
+      "message": "Μεταβείτε στο TikTok"
+   },
+   "popup_videos": {
+      "message": "Βίντεο"
+   },
+   "popup_with_watermark": {
+      "message": "Με υδατογράφημα"
+   },
+   "popup_without_watermark": {
+      "message": "Χωρίς υδατογράφημα"
+   }
+}

@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "Need to download TikTok video? Use the TikTok video downloader for single or mass download"
+   },
+   "download": {
+      "message": "Lejupielādēt"
+   },
+   "name": {
+      "message": "TikTok video downloader extension"
+   },
+   "popup_options": {
+      "message": "iespējas"
+   },
+   "popup_reload": {
+      "message": "Lūdzu, atsvaidziniet lapu un mēģiniet vēlreiz."
+   },
+   "popup_to_tiktok": {
+      "message": "Dodieties uz TikTok"
+   },
+   "popup_videos": {
+      "message": "Video"
+   },
+   "popup_with_watermark": {
+      "message": "Ar ūdenszīmi"
+   },
+   "popup_without_watermark": {
+      "message": "Bez ūdenszīmes"
+   }
+}

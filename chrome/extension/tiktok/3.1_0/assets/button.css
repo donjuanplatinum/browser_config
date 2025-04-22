@@ -1,0 +1,601 @@
+[data-tdd_parent]:hover .vdtk_download {
+  opacity: 1;
+}
+.bar-item-wrapper .vdtk_download {
+  cursor: pointer;
+}
+.bar-item-wrapper.preload .vdtk_download,
+.bar-item-wrapper.success .vdtk_download,
+.bar-item-wrapper.error .vdtk_download {
+  cursor: default;
+}
+.vdtk_download {
+  display: block;
+  position: relative;
+  min-height: 24px;
+}
+.vdtk_download + strong {
+  position: relative;
+}
+.vdtk_download + strong .abs {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  letter-spacing: -0.3px;
+  transform: translate(-25%, -50%);
+}
+.vdtk_download img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  max-width: 50px;
+  max-height: 50px;
+  transform: translate(-50%, -50%);
+}
+.vdtk_download .preloader-svg,
+.vdtk_download .success-svg,
+.vdtk_download .error-svg {
+  display: none;
+}
+.vdtk_download .success-svg,
+.vdtk_download .error-svg {
+  max-width: 26px;
+}
+.vdtk_download > * {
+  pointer-events: none;
+}
+.vdtk_explore,
+.vdtk_grid {
+  position: absolute;
+  z-index: 99;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  pointer-events: none;
+}
+.vdtk_explore .vdtk_download,
+.vdtk_grid .vdtk_download {
+  pointer-events: auto;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  top: 50%;
+  left: 50%;
+  z-index: 2;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+.vdtk_explore strong,
+.vdtk_grid strong {
+  display: none;
+}
+.vdtk_explore.preload,
+.vdtk_grid.preload,
+.vdtk_explore.success,
+.vdtk_grid.success,
+.vdtk_explore.error,
+.vdtk_grid.error {
+  transition: opacity 0.3s ease-in-out;
+  pointer-events: none;
+  opacity: 1 !important;
+}
+.vdtk_explore.preload .success-svg,
+.vdtk_grid.preload .success-svg,
+.vdtk_explore.success .success-svg,
+.vdtk_grid.success .success-svg,
+.vdtk_explore.error .success-svg,
+.vdtk_grid.error .success-svg,
+.vdtk_explore.preload .error-svg,
+.vdtk_grid.preload .error-svg,
+.vdtk_explore.success .error-svg,
+.vdtk_grid.success .error-svg,
+.vdtk_explore.error .error-svg,
+.vdtk_grid.error .error-svg {
+  max-width: 48px !important;
+}
+.vdtk_explore.preload .vdtk_download,
+.vdtk_grid.preload .vdtk_download,
+.vdtk_explore.success .vdtk_download,
+.vdtk_grid.success .vdtk_download,
+.vdtk_explore.error .vdtk_download,
+.vdtk_grid.error .vdtk_download {
+  opacity: 1;
+}
+.vdtk_explore.error,
+.vdtk_grid.error {
+  pointer-events: auto;
+}
+.vdtk_explore:before,
+.vdtk_grid:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  opacity: 0;
+  z-index: 1;
+  background: rgba(0, 0, 0, 0.2);
+  pointer-events: none;
+  transition: opacity 0.3s linear;
+}
+.vdtk_explore:hover:before,
+.vdtk_grid:hover:before {
+  opacity: 1;
+}
+.vdtk_explore:hover .vdtk_download,
+.vdtk_grid:hover .vdtk_download {
+  opacity: 1;
+}
+.vdtk_explore.preload .base-svg,
+.vdtk_grid.preload .base-svg {
+  display: none;
+}
+.vdtk_explore.preload .preloader-svg,
+.vdtk_grid.preload .preloader-svg {
+  display: block;
+}
+.vdtk_explore.success .base-svg,
+.vdtk_grid.success .base-svg {
+  display: none;
+}
+.vdtk_explore.success .success-svg,
+.vdtk_grid.success .success-svg {
+  display: block;
+}
+.vdtk_explore.error .base-svg,
+.vdtk_grid.error .base-svg {
+  display: none;
+}
+.vdtk_explore.error .error-svg,
+.vdtk_grid.error .error-svg {
+  display: block;
+}
+.vdtk_explore .base-svg,
+.vdtk_grid .base-svg {
+  border-radius: 50%;
+  overflow: hidden;
+  background-color: #f1f1f2;
+  transition: all 200ms ease-in-out 0s;
+}
+.vdtk_explore:hover .base-svg,
+.vdtk_grid:hover .base-svg {
+  background-color: #e7e7e9;
+}
+.vdtk_svideo,
+.vdtk_single {
+  width: 60px;
+}
+.vdtk_svideo.bar-item-wrapper,
+.vdtk_single.bar-item-wrapper {
+  width: 48px;
+}
+.vdtk_svideo .vdtk_download,
+.vdtk_single .vdtk_download {
+  display: inline-block;
+  vertical-align: middle;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+}
+.vdtk_svideo .vdtk_download img,
+.vdtk_single .vdtk_download img {
+  width: 100%;
+}
+.vdtk_svideo strong,
+.vdtk_single strong {
+  display: none;
+}
+.vdtk_svideo.preload .base-svg,
+.vdtk_single.preload .base-svg {
+  display: none;
+}
+.vdtk_svideo.preload .preloader-svg,
+.vdtk_single.preload .preloader-svg {
+  display: block;
+}
+.vdtk_svideo.success .base-svg,
+.vdtk_single.success .base-svg {
+  display: none;
+}
+.vdtk_svideo.success .success-svg,
+.vdtk_single.success .success-svg {
+  display: block;
+}
+.vdtk_svideo.error .base-svg,
+.vdtk_single.error .base-svg {
+  display: none;
+}
+.vdtk_svideo.error .error-svg,
+.vdtk_single.error .error-svg {
+  display: block;
+}
+.vdtk_svideo .base-svg,
+.vdtk_single .base-svg {
+  border-radius: 50%;
+  overflow: hidden;
+  background-color: #f1f1f2;
+  transition: all 200ms ease-in-out 0s;
+}
+.vdtk_svideo:hover .base-svg,
+.vdtk_single:hover .base-svg {
+  background-color: #e7e7e9;
+}
+.vdtk_single {
+  position: absolute;
+  right: 13px;
+  top: 75px;
+  z-index: 1;
+}
+.vdtk_single .vdtk_download {
+  width: 40px;
+  height: 40px;
+}
+.vdtk_single .vdtk_download img {
+  width: 100%;
+}
+.vdtk_single .vdtk_download .success-svg,
+.vdtk_single .vdtk_download .error-svg {
+  max-width: 40px;
+}
+.vdtk_svideo {
+  text-align: center;
+}
+.vdtk_svideo .vdtk_download {
+  height: 48px;
+  width: 48px;
+}
+.vdtk_svideo .vdtk_download img {
+  height: 48px;
+  width: 48px;
+}
+@media screen and (max-width: 767px) {
+  .vdtk_svideo .vdtk_download {
+    width: 32px;
+    height: 32px;
+  }
+  .vdtk_svideo .vdtk_download img {
+    width: 32px;
+    height: 32px;
+  }
+}
+.vdtk_svideo img.success-svg,
+.vdtk_svideo img.error-svg {
+  max-width: 48px;
+}
+.vdtk_svideo .vdtk_download + strong {
+  width: 100%;
+  display: block;
+  left: 0;
+}
+.vdtk_svideo .vdtk_download + strong .abs {
+  transform: translate(-50%, -50%);
+}
+.vdtk_svideo + .vdtk_svideo {
+  display: none;
+}
+.vdtk_4bvideo {
+  text-align: center;
+  position: absolute;
+  width: 100%;
+  bottom: calc(100% + 8px);
+}
+.vdtk_4bvideo.preload,
+.vdtk_4bvideo.success,
+.vdtk_4bvideo.error {
+  transition: opacity 0.3s ease-in-out;
+  pointer-events: none;
+  opacity: 1 !important;
+}
+.vdtk_4bvideo.preload .success-svg,
+.vdtk_4bvideo.success .success-svg,
+.vdtk_4bvideo.error .success-svg,
+.vdtk_4bvideo.preload .error-svg,
+.vdtk_4bvideo.success .error-svg,
+.vdtk_4bvideo.error .error-svg {
+  max-width: 48px !important;
+}
+.vdtk_4bvideo.preload .vdtk_download,
+.vdtk_4bvideo.success .vdtk_download,
+.vdtk_4bvideo.error .vdtk_download {
+  opacity: 1;
+}
+.vdtk_4bvideo.error {
+  pointer-events: auto;
+}
+.vdtk_4bvideo:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  opacity: 0;
+  z-index: 1;
+  background: rgba(0, 0, 0, 0.2);
+  pointer-events: none;
+  transition: opacity 0.3s linear;
+}
+.vdtk_4bvideo:hover:before {
+  opacity: 1;
+}
+.vdtk_4bvideo:hover .vdtk_download {
+  opacity: 1;
+}
+.vdtk_4bvideo.preload .base-svg {
+  display: none;
+}
+.vdtk_4bvideo.preload .preloader-svg {
+  display: block;
+}
+.vdtk_4bvideo.success .base-svg {
+  display: none;
+}
+.vdtk_4bvideo.success .success-svg {
+  display: block;
+}
+.vdtk_4bvideo.error .base-svg {
+  display: none;
+}
+.vdtk_4bvideo.error .error-svg {
+  display: block;
+}
+.vdtk_4bvideo .base-svg {
+  border-radius: 50%;
+  overflow: hidden;
+  background-color: #f1f1f2;
+  transition: all 200ms ease-in-out 0s;
+}
+.vdtk_4bvideo:hover .base-svg {
+  background-color: #e7e7e9;
+}
+.vdtk_4bvideo .vdtk_download {
+  display: inline-block;
+  vertical-align: middle;
+  border-radius: 50%;
+  height: 48px;
+  width: 48px;
+  top: -13px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.vdtk_4bvideo .vdtk_download + strong {
+  color: #fff;
+  left: 50%;
+  transform: translateX(-50%);
+  position: relative;
+  text-align: center;
+  width: 100%;
+  display: block;
+}
+.vdtk_4bvideo .vdtk_download + strong .abs {
+  transform: translate(-50%, -50%);
+}
+.vdtk_4bvideo:hover:before {
+  opacity: 0;
+}
+.vdtk_4bvideo .base-svg {
+  background-color: #f1f1f2;
+  border-radius: 50%;
+}
+.vdtk_embed {
+  text-align: center;
+  position: absolute;
+  width: 100%;
+  bottom: calc(100% + 8px);
+}
+.vdtk_embed.preload,
+.vdtk_embed.success,
+.vdtk_embed.error {
+  transition: opacity 0.3s ease-in-out;
+  pointer-events: none;
+  opacity: 1 !important;
+}
+.vdtk_embed.preload .success-svg,
+.vdtk_embed.success .success-svg,
+.vdtk_embed.error .success-svg,
+.vdtk_embed.preload .error-svg,
+.vdtk_embed.success .error-svg,
+.vdtk_embed.error .error-svg {
+  max-width: 48px !important;
+}
+.vdtk_embed.preload .vdtk_download,
+.vdtk_embed.success .vdtk_download,
+.vdtk_embed.error .vdtk_download {
+  opacity: 1;
+}
+.vdtk_embed.error {
+  pointer-events: auto;
+}
+.vdtk_embed:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  opacity: 0;
+  z-index: 1;
+  background: rgba(0, 0, 0, 0.2);
+  pointer-events: none;
+  transition: opacity 0.3s linear;
+}
+.vdtk_embed:hover:before {
+  opacity: 1;
+}
+.vdtk_embed:hover .vdtk_download {
+  opacity: 1;
+}
+.vdtk_embed.preload .base-svg {
+  display: none;
+}
+.vdtk_embed.preload .preloader-svg {
+  display: block;
+}
+.vdtk_embed.success .base-svg {
+  display: none;
+}
+.vdtk_embed.success .success-svg {
+  display: block;
+}
+.vdtk_embed.error .base-svg {
+  display: none;
+}
+.vdtk_embed.error .error-svg {
+  display: block;
+}
+.vdtk_embed .base-svg {
+  border-radius: 50%;
+  overflow: hidden;
+  background-color: #f1f1f2;
+  transition: all 200ms ease-in-out 0s;
+}
+.vdtk_embed:hover .base-svg {
+  background-color: #e7e7e9;
+}
+.vdtk_embed .vdtk_download {
+  display: inline-block;
+  vertical-align: middle;
+  border-radius: 50%;
+  height: 48px;
+  width: 48px;
+  top: -13px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.vdtk_embed strong {
+  display: none;
+}
+.vdtk_embed:hover:before {
+  opacity: 0;
+}
+.vdtk_embed .base-svg {
+  background-color: #f1f1f2;
+  border-radius: 50%;
+}
+.vdtk_popup {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: transparent;
+  width: 48px;
+  height: 48px;
+}
+.vdtk_popup.preload,
+.vdtk_popup.success,
+.vdtk_popup.error {
+  transition: opacity 0.3s ease-in-out;
+  pointer-events: none;
+  opacity: 1 !important;
+}
+.vdtk_popup.preload .success-svg,
+.vdtk_popup.success .success-svg,
+.vdtk_popup.error .success-svg,
+.vdtk_popup.preload .error-svg,
+.vdtk_popup.success .error-svg,
+.vdtk_popup.error .error-svg {
+  max-width: 48px !important;
+}
+.vdtk_popup.preload .vdtk_download,
+.vdtk_popup.success .vdtk_download,
+.vdtk_popup.error .vdtk_download {
+  opacity: 1;
+}
+.vdtk_popup.error {
+  pointer-events: auto;
+}
+.vdtk_popup:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  opacity: 0;
+  z-index: 1;
+  background: rgba(0, 0, 0, 0.2);
+  pointer-events: none;
+  transition: opacity 0.3s linear;
+}
+.vdtk_popup:hover:before {
+  opacity: 1;
+}
+.vdtk_popup:hover .vdtk_download {
+  opacity: 1;
+}
+.vdtk_popup.preload .base-svg {
+  display: none;
+}
+.vdtk_popup.preload .preloader-svg {
+  display: block;
+}
+.vdtk_popup.success .base-svg {
+  display: none;
+}
+.vdtk_popup.success .success-svg {
+  display: block;
+}
+.vdtk_popup.error .base-svg {
+  display: none;
+}
+.vdtk_popup.error .error-svg {
+  display: block;
+}
+.vdtk_popup .base-svg {
+  border-radius: 50%;
+  overflow: hidden;
+  background-color: #f1f1f2;
+  transition: all 200ms ease-in-out 0s;
+}
+.vdtk_popup:hover .base-svg {
+  background-color: #e7e7e9;
+}
+.vdtk_popup .vdtk_download {
+  display: inline-block;
+  vertical-align: middle;
+  border-radius: 50%;
+}
+.vdtk_popup strong {
+  display: none;
+}
+.vdtk_popup:hover:before {
+  opacity: 0;
+}
+.vdtk_popup .base-svg {
+  background-color: #f1f1f2;
+  border-radius: 50%;
+}
+.vdtk_explore {
+  opacity: 0;
+  transition: opacity 0.3s linear;
+  position: absolute;
+  left: 50%;
+  z-index: 1;
+  top: 50%;
+  text-align: center;
+  transform: translate(-50%, -50%);
+}
+.vdtk_explore:before {
+  background: transparent;
+}
+.vdtk_explore .vdtk_download {
+  width: 40px;
+  height: 40px;
+}
+.vdtk_explore .vdtk_download img {
+  width: 100%;
+}
+.vdtk_explore .vdtk_download {
+  opacity: 1;
+}
+.vdtk_explore .vdtk_download .success-svg,
+.vdtk_explore .vdtk_download .error-svg {
+  max-width: 40px;
+}
+[data-e2e="explore-item"]:hover .vdtk_explore {
+  opacity: 1;
+}

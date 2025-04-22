@@ -1,0 +1,44 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "/assets/images/icon16.png",
+         "19": "/assets/images/icon19.png"
+      },
+      "default_popup": "popup.html"
+   },
+   "background": {
+      "service_worker": "/js/sw.js"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "/assets/app.css", "/assets/button.css" ],
+      "js": [ "/js/app.js" ],
+      "matches": [ "https://*.tiktok.com/*" ],
+      "run_at": "document_idle"
+   } ],
+   "declarative_net_request": {
+      "rule_resources": [ {
+         "enabled": true,
+         "id": "ruleset_1",
+         "path": "/assets/rules.json"
+      } ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "host_permissions": [ "https://*.tiktokv.com/*", "https://*.tiktok.com/*" ],
+   "icons": {
+      "128": "/assets/images/icon128.png",
+      "32": "/assets/images/icon32.png",
+      "48": "/assets/images/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhrlP/TPZxIVOn7peN3bx5HqUEya8pcG1bc+njNahG7hRmg/Gfm9WAM5DBzyeyUz8f3sHgP3+cQG/Lmu6CXraBXrph5Km+6Ds0AQaIILa40wxwbzU0j3eWvvgvF4Uyj0HH6R6cNUZIu5ivUjvAYyj5wOffWFRVvpS3965SJaBIJRY/xwTttgjjOkjyzEjc6wM2uqZ1wGU8LOebXvO/b4y8PUNDGQ1sLrUqv3FvbXZGbB578pZi6D0dkg/jGzl0IQDtc0S+6Ta4CA0tTbc7p9s9tWBwUHnzFN6aHCLUWHq1U9p5K/yFSCzI6eliHVY+CqhtRABAaMwv6npFhjNNXkmfQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_name__",
+   "permissions": [ "storage", "tabs", "downloads", "declarativeNetRequest", "webRequest" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.1",
+   "web_accessible_resources": [ {
+      "matches": [ "https://*.tiktok.com/*" ],
+      "resources": [ "/assets/images/*.svg", "/assets/images/*.png", "/js/bridge_script.js" ]
+   } ]
+}

@@ -1,0 +1,101 @@
+{
+   "available_now": {
+      "message": "Ab sofort verfügbar"
+   },
+   "cancel": {
+      "message": "Stornieren"
+   },
+   "continue": {
+      "message": "Weitermachen"
+   },
+   "description": {
+      "message": "Laden Sie ein beliebiges Video von TikTok herunter. Einzel- und Massen-Download-Optionen verfügbar."
+   },
+   "disable_one_by_one_warning": {
+      "message": "Zeigen Sie dies nicht mehr an"
+   },
+   "download": {
+      "message": "Herunterladen"
+   },
+   "download_all": {
+      "message": "Alles herunterladen"
+   },
+   "download_by_zip": {
+      "message": "ZIP erstellen"
+   },
+   "download_from": {
+      "message": "Herunterladen von"
+   },
+   "download_last": {
+      "message": "Zuletzt herunterladen"
+   },
+   "download_one_by_one": {
+      "message": "Herunterladen"
+   },
+   "downloaded": {
+      "message": "Heruntergeladen"
+   },
+   "downloading": {
+      "message": "Wird heruntergeladen..."
+   },
+   "enough": {
+      "message": "Stoppen"
+   },
+   "error": {
+      "message": "Fehler"
+   },
+   "found": {
+      "message": "Gefunden"
+   },
+   "go_to_downloads_settings": {
+      "message": "Gehen Sie zu den Download-Einstellungen"
+   },
+   "later_you_can_get_more": {
+      "message": "Später können Sie weitere herunterladen"
+   },
+   "name": {
+      "message": "Tiktok-Downloader"
+   },
+   "no_dates_video": {
+      "message": "Für diese Daten wurden keine Videos gefunden"
+   },
+   "one_by_one_warning_text": {
+      "message": "Wenn Sie das Herunterladen einzeln durchführen, ist es eine gute Idee, im Voraus einen Speicherordner auszuwählen oder zu erstellen und die Option „Jedes Mal fragen, wo heruntergeladen werden soll“ zu deaktivieren"
+   },
+   "popup_options": {
+      "message": "Optionen"
+   },
+   "popup_reload": {
+      "message": "Bitte aktualisieren Sie die Seite und versuchen Sie es erneut."
+   },
+   "popup_to_tiktok": {
+      "message": "Gehe zu TikTok"
+   },
+   "popup_videos": {
+      "message": "Videos"
+   },
+   "popup_with_watermark": {
+      "message": "Mit Wasserzeichen"
+   },
+   "popup_without_watermark": {
+      "message": "Ohne Wasserzeichen"
+   },
+   "stop_button_description": {
+      "message": "Sie können den Download jederzeit stoppen, wenn Sie genügend Videos haben"
+   },
+   "to": {
+      "message": "zu"
+   },
+   "tryAgainLater": {
+      "message": "Bitte versuchen Sie es später noch einmal"
+   },
+   "video_selected": {
+      "message": "Videos ausgewählt"
+   },
+   "videos": {
+      "message": "Videos"
+   },
+   "wait_download_in_another_tab": {
+      "message": "Bitte warten Sie, der Download in einem anderen Tab ist abgeschlossen"
+   }
+}

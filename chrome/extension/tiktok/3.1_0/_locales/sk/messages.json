@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "Optimize your TikTok video library with advanced Video Saver for TikTok"
+   },
+   "download": {
+      "message": "Stiahnuť ▼"
+   },
+   "name": {
+      "message": "TikTok Video Downloader for Chrome"
+   },
+   "popup_options": {
+      "message": "možnosti"
+   },
+   "popup_reload": {
+      "message": "Obnovte stránku a skúste to znova."
+   },
+   "popup_to_tiktok": {
+      "message": "Choďte na TikTok"
+   },
+   "popup_videos": {
+      "message": "Videá"
+   },
+   "popup_with_watermark": {
+      "message": "S vodoznakom"
+   },
+   "popup_without_watermark": {
+      "message": "Bez vodoznaku"
+   }
+}

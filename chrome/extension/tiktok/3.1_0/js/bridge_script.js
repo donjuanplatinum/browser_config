@@ -1,0 +1,1 @@
+window.addEventListener("message",(function(e){if(e.data.action&&"tiktak_query"===e.data.action){let t=e.data.url,i=e.data.options;fetch(t,i).then((e=>e.json())).then((e=>{window.postMessage({action:"tiktak_response",res:e},"*")})).catch((e=>{window.postMessage({action:"tiktak_response",res:null},"*")}))}}),!1);

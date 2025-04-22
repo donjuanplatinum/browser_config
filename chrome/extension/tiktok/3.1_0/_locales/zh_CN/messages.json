@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "TikTok 视频下载器，用于将 TikTok 视频保存到您的电脑。从 TikTok 下载，支持单个和批量下载。最佳 TikTok 视频保存工具。"
+   },
+   "download": {
+      "message": "下载"
+   },
+   "name": {
+      "message": "抖音下载器"
+   },
+   "popup_options": {
+      "message": "选项"
+   },
+   "popup_reload": {
+      "message": "请刷新页面并重试。"
+   },
+   "popup_to_tiktok": {
+      "message": "去抖音"
+   },
+   "popup_videos": {
+      "message": "视频"
+   },
+   "popup_with_watermark": {
+      "message": "带水印"
+   },
+   "popup_without_watermark": {
+      "message": "无水印"
+   }
+}

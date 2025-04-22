@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "Download TikTok videos effortlessly using the TikTok Video Saver."
+   },
+   "download": {
+      "message": "nedlasting"
+   },
+   "name": {
+      "message": "TikTok Downloader. Save video for offline"
+   },
+   "popup_options": {
+      "message": "alternativer"
+   },
+   "popup_reload": {
+      "message": "Oppdater siden og prøv igjen."
+   },
+   "popup_to_tiktok": {
+      "message": "Gå til TikTok"
+   },
+   "popup_videos": {
+      "message": "Videoer"
+   },
+   "popup_with_watermark": {
+      "message": "Med vannmerke"
+   },
+   "popup_without_watermark": {
+      "message": "Uten vannmerke"
+   }
+}

@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "Unduh video dari tiktok.com"
+   },
+   "download": {
+      "message": "Unduh"
+   },
+   "name": {
+      "message": "Pengunduh Tiktok"
+   },
+   "popup_options": {
+      "message": "pilihan"
+   },
+   "popup_reload": {
+      "message": "Segarkan halaman dan coba lagi."
+   },
+   "popup_to_tiktok": {
+      "message": "Pergi ke TikTok"
+   },
+   "popup_videos": {
+      "message": "Video"
+   },
+   "popup_with_watermark": {
+      "message": "Dengan tanda air"
+   },
+   "popup_without_watermark": {
+      "message": "Tanpa tanda air"
+   }
+}

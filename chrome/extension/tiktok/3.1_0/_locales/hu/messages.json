@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "Effortlessly download TikTok videos with new user-friendly downloader. Save TikToks easily"
+   },
+   "download": {
+      "message": "Letöltés"
+   },
+   "name": {
+      "message": "Saving video from TikTok with Downloader"
+   },
+   "popup_options": {
+      "message": "lehetőségek"
+   },
+   "popup_reload": {
+      "message": "Kérjük, frissítse az oldalt, és próbálja újra."
+   },
+   "popup_to_tiktok": {
+      "message": "Lépjen a TikTok oldalára"
+   },
+   "popup_videos": {
+      "message": "Videók"
+   },
+   "popup_with_watermark": {
+      "message": "Vízjellel"
+   },
+   "popup_without_watermark": {
+      "message": "Vízjel nélkül"
+   }
+}

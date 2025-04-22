@@ -1,0 +1,29 @@
+{
+   "description": {
+      "message": "Enhance your TikTok video collection with our downloader. Save video from tiktok"
+   },
+   "download": {
+      "message": "Ladda ner"
+   },
+   "name": {
+      "message": "Video keeper for TikTok. Save from TikTok"
+   },
+   "popup_options": {
+      "message": "alternativ"
+   },
+   "popup_reload": {
+      "message": "Uppdatera sidan och försök igen."
+   },
+   "popup_to_tiktok": {
+      "message": "Gå till TikTok"
+   },
+   "popup_videos": {
+      "message": "videoklipp"
+   },
+   "popup_with_watermark": {
+      "message": "Med vattenstämpel"
+   },
+   "popup_without_watermark": {
+      "message": "Utan vattenstämpel"
+   }
+}
